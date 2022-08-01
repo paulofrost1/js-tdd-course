@@ -1,7 +1,7 @@
 {
   "name": "js-tdd-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "One Paragraph of project description goes here",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/paulofrost1/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/paulofrost1/js-tdd-course#readme"
+  "homepage": "https://github.com/paulofrost1/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
 }
